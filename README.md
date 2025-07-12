@@ -16,6 +16,7 @@ A responsive eCommerce website built using **HTML**, **CSS**, and **JavaScript**
 - JavaScript
 - JSON (via DummyJSON API)
 
+
 ## 📁 Project Structure
 onlineShop/
 ├── Homw.html               # structure of Home Page 
@@ -30,3 +31,8 @@ onlineShop/
 ├── Cart.css                 # Styles for cart page
 ├── Cart.js                  # Script for cart functionality
 
+ScreenShots
+![HomePage](https://github.com/user-attachments/assets/8ae7c483-198d-4d7e-bb48-6e396b882d2a)
+![shoppingCart](https://github.com/user-attachments/assets/a98e7cc7-af1a-41c3-9d60-6b4ffc5f9732)
+![ViewProduct](https://github.com/user-attachments/assets/8640a38e-175a-42fb-ab71-f6390f3c91e3)
+![search](https://github.com/user-attachments/assets/b1893957-ad09-4421-9ffe-e703043dd65d)
